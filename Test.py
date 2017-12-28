@@ -27,6 +27,7 @@ with open ("Tabella", "rb") as fp:
     tab = pickle.load(fp)
 
 print tab
+print tab
 
 
 
