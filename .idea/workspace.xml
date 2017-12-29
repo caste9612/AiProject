@@ -2,15 +2,409 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d5529e0-ccbb-4ff5-9308-983597e75902" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tabella" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Vocabulary" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../README.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104418" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104419" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104420" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104421" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104422" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104423" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104424" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104425" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104426" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104427" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104428" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104429" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104430" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104431" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104432" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104433" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104434" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104435" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104436" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104437" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104438" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104439" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104440" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104441" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104442" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104443" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104444" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104445" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104446" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104447" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104448" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104449" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104450" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104451" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104452" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104453" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104454" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104455" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104456" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104457" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104458" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104459" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104460" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104461" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104462" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104463" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104464" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104465" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104466" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104467" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104468" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104469" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104470" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104471" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104472" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104473" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104474" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104475" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104476" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104477" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104478" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104479" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104480" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104481" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104482" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104483" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104484" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104485" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104486" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104487" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104488" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104489" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104490" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104491" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104492" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104493" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104494" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104495" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104496" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104497" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104498" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104499" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104500" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104501" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104502" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104503" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104504" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104505" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104506" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104507" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104508" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104509" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104510" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104511" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104512" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104513" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104514" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104515" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104516" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104517" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15419" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15420" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15421" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15422" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15423" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15424" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15425" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15426" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15427" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15429" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15430" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15431" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15432" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15433" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15434" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15435" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15436" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15437" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15438" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15439" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15440" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15441" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15442" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15443" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15444" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15445" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15446" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15447" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15448" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15449" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15450" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15451" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15452" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15453" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15454" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15455" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15456" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15457" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15458" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15459" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15460" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15461" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15462" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15463" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15464" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15465" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15466" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15467" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15468" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15469" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15470" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15471" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15472" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15473" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15474" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15475" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15476" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15477" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15478" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15479" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15480" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15481" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15482" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15483" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15484" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15485" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15486" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15487" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15488" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15489" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15490" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15491" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15492" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15493" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15494" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15495" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15496" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15497" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15498" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15499" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15500" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15501" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15502" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15503" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15504" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15505" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15506" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15507" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15508" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15509" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15510" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15511" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15512" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15513" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15514" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15515" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15516" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15517" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15518" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.crypt/15519" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53623" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53624" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53625" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53626" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53627" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53628" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53629" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53630" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53631" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53632" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53633" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53634" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53635" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53636" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53637" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53638" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53639" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53640" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53641" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53642" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53643" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53644" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53645" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53646" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53647" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53648" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53649" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53650" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53651" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53652" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53653" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53654" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53655" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53656" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53657" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53658" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53659" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53660" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53661" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53662" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53663" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53664" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53665" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53666" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53667" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53668" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53669" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53670" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53671" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53672" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53673" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53674" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53675" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53676" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53677" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53678" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53679" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53680" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53681" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53682" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53683" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53684" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53685" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53686" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53687" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53688" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53689" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53690" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53691" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53692" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53693" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53694" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53695" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53696" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53697" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53698" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53699" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53700" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53701" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53702" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53703" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53704" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53705" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53706" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53707" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53708" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53709" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53710" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53711" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53712" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53713" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53714" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53715" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53716" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53717" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53718" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53719" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53720" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53721" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.electronics/53722" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60861" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60862" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60863" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60864" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60865" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60866" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60867" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60868" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60869" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60870" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60871" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60872" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60873" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60874" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60875" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60876" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60877" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60878" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60879" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60880" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60881" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60882" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60883" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60884" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60885" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60886" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60887" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60888" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60889" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60890" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60891" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60892" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60893" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60894" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60895" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60896" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60897" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60898" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60899" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60900" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60901" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60902" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60903" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60904" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60905" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60906" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60907" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60908" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60909" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/sci.space/60910" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53303" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53304" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53305" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53306" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53307" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53308" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53309" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53310" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53311" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53312" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53313" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53314" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53315" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53316" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53317" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53318" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53319" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53320" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53321" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53322" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53323" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53324" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53325" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53326" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53327" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53328" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53329" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53330" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53331" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53332" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53333" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53334" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53335" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53336" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53337" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53338" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53339" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53340" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53341" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53342" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53343" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53344" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53345" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53346" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53347" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53348" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53349" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53350" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53351" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53352" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$" afterPath="$PROJECT_DIR$" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bernoulli.py" afterPath="$PROJECT_DIR$/Bernoulli.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Multinomial.py" afterPath="$PROJECT_DIR$/Multinomial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test.py" afterPath="$PROJECT_DIR$/Test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Utility.py" afterPath="$PROJECT_DIR$/Utility.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +417,7 @@
     <SUITE FILE_PATH="coverage/AiProject$Test.coverage" NAME="Test Coverage Results" MODIFIED="1514547503994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AiProject$Bernoulli.coverage" NAME="Bernoulli Coverage Results" MODIFIED="1514314406118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AiProject$Multinomial.coverage" NAME="Multinomial Coverage Results" MODIFIED="1514456216885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AiProject$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1514552407769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AiProject$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1514554647652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -31,10 +425,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-279">
+            <state relative-caret-position="-318">
               <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
@@ -46,8 +440,8 @@
       <file leaf-file-name="Test2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            <state relative-caret-position="280">
+              <caret line="37" column="80" lean-forward="false" selection-start-line="37" selection-start-column="80" selection-end-line="37" selection-end-column="80" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -83,14 +477,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Multinomial.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Multinomial.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Multinomial.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="52" column="43" lean-forward="false" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
+            <state relative-caret-position="359">
+              <caret line="85" column="112" lean-forward="false" selection-start-line="85" selection-start-column="112" selection-end-line="85" selection-end-column="112" />
               <folding>
                 <element signature="e#194#1505#0" expanded="false" />
-                <element signature="e#1556#2543#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -115,9 +508,9 @@
         <option value="$PROJECT_DIR$/Vocabulary" />
         <option value="$PROJECT_DIR$/Test.py" />
         <option value="$PROJECT_DIR$/Bernoulli.py" />
-        <option value="$PROJECT_DIR$/Multinomial.py" />
-        <option value="$PROJECT_DIR$/Test2.py" />
         <option value="$PROJECT_DIR$/Utility.py" />
+        <option value="$PROJECT_DIR$/Test2.py" />
+        <option value="$PROJECT_DIR$/Multinomial.py" />
       </list>
     </option>
   </component>
@@ -498,7 +891,21 @@
       <option name="project" value="LOCAL" />
       <updated>1514480608188</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="second commit">
+      <created>1514553665266</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1514553665266</updated>
+    </task>
+    <task id="LOCAL-00004" summary="second commit">
+      <created>1514553931602</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1514553931603</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -521,7 +928,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.4967983" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40963855" sideWeight="0.49786553" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49945235" sideWeight="0.49786553" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5060241" sideWeight="0.49786553" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -562,7 +969,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -663,17 +1071,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Multinomial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="52" column="43" lean-forward="false" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
-          <folding>
-            <element signature="e#194#1505#0" expanded="false" />
-            <element signature="e#1556#2543#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bernoulli.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
@@ -698,22 +1095,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test2.py">
+    <entry file="file://$PROJECT_DIR$/Test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        <state relative-caret-position="-318">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test.py">
+    <entry file="file://$PROJECT_DIR$/Test2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-279">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="280">
+          <caret line="37" column="80" lean-forward="false" selection-start-line="37" selection-start-column="80" selection-end-line="37" selection-end-column="80" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multinomial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="85" column="112" lean-forward="false" selection-start-line="85" selection-start-column="112" selection-end-line="85" selection-end-column="112" />
+          <folding>
+            <element signature="e#194#1505#0" expanded="false" />
           </folding>
         </state>
       </provider>

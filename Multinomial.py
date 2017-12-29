@@ -83,6 +83,6 @@ def multinomialCompute(document, dir, tab):
             max = i
     prov = document.split("/")
     prov1 = cond[max - 1].split("/")
-    print "Credo che il documento " + prov[len(prov)-1] + "(" + prov[len(prov)-2] + ")" + " parli di : " + prov[len(prov1)-1]
+    print "Credo che il documento " + prov[len(prov)-1] + "(" + prov[len(prov)-2] + ")" + " parli di : " + prov1[len(prov1)-1]
 
 
