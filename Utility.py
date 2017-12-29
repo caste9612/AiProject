@@ -24,8 +24,6 @@ def createVocoabulary(dir):
 
     return vocabulary
 
-
-
 def documentAnalyse(array, document):
     with open(document) as f:
         # Per ogni riga
@@ -58,6 +56,30 @@ def documentAnalyse(array, document):
                 if len(array) <= 2:
                     array.append(thisline[i])
 
+def documentAnalyseToken(array, document):
+    with open(document) as f:
+        # Per ogni riga
+        lines = f.readlines()
+        for line in lines:
+            thisline = line.split(" ")
+
+            # Per ogni parola
+            for i in range(len(thisline)):
+
+                # Filtro per parole vuote  e troppo lunghe e con caratteri speciali(set velocizzano)
+                thisline[i] = thisline[i].translate(None, '\t\n ')
+
+                invalidChars = set(string.punctuation.replace("-", ""))
+                if any(char in invalidChars for char in thisline[i]):
+                    break
+                if len(thisline[i]) > 18 or len(thisline) < 3:
+                    break
+                if not thisline[i]:
+                    break
+                if thisline[i] == "\n":
+                    break
+
+                array.append(thisline[i])
 
 def write(data, outfile):
     f = open(outfile, "w+b")
@@ -65,7 +87,6 @@ def write(data, outfile):
         f.writelines(data[i])
         f.write("\n")
     f.close()
-
 
 def createList(path):
     # Creo la lista dei file
