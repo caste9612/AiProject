@@ -4,26 +4,36 @@ from Utility import documentAnalyseToken
 import os
 from math import log10
 
-def multinomialTrain(dir, vocabulary, percentage):
+def multinomialTrain(dir, vocabulary, percentage,trainSet):
+
+    print "MultinomialTrain start..."
+
 
     tab = []
     tab.append(vocabulary)
     tab.append([])
-
-    totalFiles = createList(dir)
+    totalFiles = trainSet
     prior = []
     total = 0
+
+    counter2 = 0
+    counter3 = 0
 
     subdirs = [x[0] for x in os.walk(dir)]
     for subdir in subdirs:
         if subdir != dir:
+            counter2 += 1
+            counter3 = 0
             #1 sta per laplace smoothing
             tabTmp = [1] * len(vocabulary)
             tab[1].append(subdir)
-            print subdir
-            files = createList(subdir)
+            files = []
+            for i in (totalFiles):
+                a = subdir.split("/")
+                b = i.split("/")
+                if a[len(a) - 1] == b[len(b) - 2]:
+                    files.append(i)
             prior.append(len(files)/len(totalFiles))
-
             words = []
             for file in files:
                 count = 0
@@ -37,6 +47,10 @@ def multinomialTrain(dir, vocabulary, percentage):
 
             for i in range((len(vocabulary))):
                     for j in range(len(words)):
+                        tmp = int((i * 100)/len(vocabulary))
+                        if tmp != counter3:
+                            counter3 = tmp
+                            print str(counter2) + "/" + str(len(subdirs)-1) + " :" + str(counter3) + " %"
                         if vocabulary[i] == words[j] and vocabulary[i] != "\n":
                             tabTmp[i] += 1
                             total += 1
@@ -51,6 +65,7 @@ def multinomialTrain(dir, vocabulary, percentage):
     return tab
 
 def multinomialCompute(document, dir, tab):
+
 
     doc = []
     documentAnalyseToken(doc,document)
@@ -83,6 +98,8 @@ def multinomialCompute(document, dir, tab):
             max = i
     prov = document.split("/")
     prov1 = cond[max - 1].split("/")
-    print "Credo che il documento " + prov[len(prov)-1] + "(" + prov[len(prov)-2] + ")" + " parli di : " + prov1[len(prov1)-1]
+    #print "Credo che il documento " + prov[len(prov)-1] + "(" + prov[len(prov)-2] + ")" + " parli di : " + prov1[len(prov1)-1]
+    return prov1[len(prov1) - 1]
+
 
 

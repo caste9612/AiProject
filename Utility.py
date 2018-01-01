@@ -1,17 +1,10 @@
 import os
 import string
+import pickle
 
 
-def createVocoabulary(dir):
 
-    # Creo la lista dei file
-    r = []
-    subdirs = [x[0] for x in os.walk(dir)]
-    for subdir in subdirs:
-        files = os.walk(subdir).next()[2]
-        if (len(files) > 0):
-            for file in files:
-                r.append(subdir + "/" + file)
+def createVocoabulary(r):
 
     vocabulary = []
     count = 0
@@ -98,3 +91,7 @@ def createList(path):
                 for file in files:
                     r.append(subdir + "/" + file)
         return r
+
+
+
+
