@@ -16,13 +16,12 @@ def multinomialTrain(dir, vocabulary, percentage,trainSet):
     prior = []
     total = 0
 
-    counter2 = 0
-    counter3 = 0
 
     subdirs = [x[0] for x in os.walk(dir)]
+    partial = 0
     for subdir in subdirs:
         if subdir != dir:
-            counter2 += 1
+            partial += 1
             counter3 = 0
             #1 sta per laplace smoothing
             tabTmp = [1] * len(vocabulary)
@@ -34,23 +33,17 @@ def multinomialTrain(dir, vocabulary, percentage,trainSet):
                 if a[len(a) - 1] == b[len(b) - 2]:
                     files.append(i)
             prior.append(len(files)/len(totalFiles))
+
             words = []
             for file in files:
-                count = 0
-                if count > (len(files) / 100) * percentage:
-                    break
-                count += 1
-                tmp = []
-                documentAnalyseToken(tmp, file)
-                for i in range(len(tmp)):
-                    words.append(tmp[i])
+                documentAnalyseToken(words, file)
 
             for i in range((len(vocabulary))):
                     for j in range(len(words)):
                         tmp = int((i * 100)/len(vocabulary))
                         if tmp != counter3:
                             counter3 = tmp
-                            print str(counter2) + "/" + str(len(subdirs)-1) + " :" + str(counter3) + " %"
+                            print str(partial) + "/" + str(len(subdirs)-1) + " :" + str(counter3) + " %"
                         if vocabulary[i] == words[j] and vocabulary[i] != "\n":
                             tabTmp[i] += 1
                             total += 1

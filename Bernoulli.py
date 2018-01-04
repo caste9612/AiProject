@@ -21,7 +21,6 @@ def bernoulliTrain (dir, vocabulary, percentage, trainSet):
         if subdir != dir:
             counter = 0
             partial += 1
-            #1 sta per laplace smoothing
             tabTmp = [0] * len(vocabulary)
             tab[1].append(subdir)
             files = []
@@ -31,25 +30,24 @@ def bernoulliTrain (dir, vocabulary, percentage, trainSet):
                 if a[len(a)-1] == b[len(b)-2]:
                     files.append(i)
             prior.append(len(files)/len(totalFiles))
-            for i in range((len(vocabulary))):
-                count = 0
-                t = int((i * 100)/len(vocabulary))
+
+
+            for file in range(len(files)):
+                t = int((file * 100) / len(files))
                 if t != counter:
                     counter = t
-                    print str(partial) + "/" + str(len(subdirs)-1) + " :" + str(counter) + " %"
-                for file in files:
-                    if count > (len(files) / 100) * percentage:
-                        break
-                    count += 1
-                    tmp = []
-                    documentAnalyse(tmp, file)
-                    for j in range(len(tmp)):
-                        if vocabulary[i] == tmp[j] and vocabulary[i] != "\n":
-                            tabTmp[i] = tabTmp[i]+1
-                            break
-                    # + 2 per Laplace?
+                    print str(partial) + "/" + str(len(subdirs) - 1) + " :" + str(counter) + " %"
+                tmp = []
+                documentAnalyse(tmp, files[file])
+                found = [False] * len(tmp)
+                for j in range(len(tmp)):
+                    for i in range((len(vocabulary))):
+                        if vocabulary[i] == tmp[j] and found[j] == False:
+                            tabTmp[i] += 1
+                            found[j] = True
+                # + 2 per Laplace?
+            for i in range(len(vocabulary)):
                 tabTmp[i] = (tabTmp[i] + 1) / (len(files) + 2)
-            print tabTmp
             tab.append(tabTmp)
     tab.append(prior)
     return tab

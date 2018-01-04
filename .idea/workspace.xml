@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d5529e0-ccbb-4ff5-9308-983597e75902" name="Default" comment="second commit">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BETA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BETA2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BETA2tabM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BETA3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BETA3tabM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BETAtabM" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104418" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104419" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/rec.sport.baseball/104420" afterPath="" />
@@ -404,6 +410,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../newsgroups/talk.politics.guns/53352" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$" afterPath="$PROJECT_DIR$" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bernoulli.py" afterPath="$PROJECT_DIR$/Bernoulli.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Multinomial.py" afterPath="$PROJECT_DIR$/Multinomial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Utility.py" afterPath="$PROJECT_DIR$/Utility.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -414,12 +423,12 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/AiProject$Test.coverage" NAME="Test Coverage Results" MODIFIED="1514714823165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AiProject$unknown.coverage" NAME="unknown Coverage Results" MODIFIED="1514720450434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AiProject$unknown.coverage" NAME="unknown Coverage Results" MODIFIED="1515058301294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AiProject$Bernoulli.coverage" NAME="Bernoulli Coverage Results" MODIFIED="1514314406118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AiProject$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1514657205149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AiProject$Multinomial.coverage" NAME="Multinomial Coverage Results" MODIFIED="1514456216885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AiProject$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1514658433737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AiProject$Utility.coverage" NAME="Utility Coverage Results" MODIFIED="1514830813561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AiProject$Utility.coverage" NAME="Utility Coverage Results" MODIFIED="1515059990002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -430,39 +439,14 @@
       <file leaf-file-name="unknown.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unknown.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="151" column="33" lean-forward="true" selection-start-line="150" selection-start-column="8" selection-end-line="151" selection-end-column="33" />
+            <state relative-caret-position="2829">
+              <caret line="150" column="8" lean-forward="false" selection-start-line="150" selection-start-column="8" selection-end-line="151" selection-end-column="33" />
               <folding>
                 <element signature="e#458#480#0" expanded="false" />
                 <element signature="e#505#542#0" expanded="false" />
                 <element signature="e#592#773#0" expanded="false" />
                 <element signature="e#838#1063#0" expanded="false" />
                 <element signature="e#1099#1136#0" expanded="false" />
-                <element signature="e#1165#4180#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Utility.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Utility.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1390">
-              <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Multinomial.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Multinomial.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-                <element signature="e#203#2037#0" expanded="false" />
-                <element signature="e#2089#3111#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -471,12 +455,37 @@
       <file leaf-file-name="Bernoulli.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bernoulli.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state relative-caret-position="115">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
-                <element signature="e#199#1803#0" expanded="false" />
-                <element signature="e#1853#3366#0" expanded="false" />
+                <element signature="e#1732#3245#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Multinomial.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Multinomial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="943">
+              <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+              <folding>
+                <element signature="e#1825#2847#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utility.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Utility.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <folding>
+                <element signature="e#83#254#0" expanded="false" />
+                <element signature="e#298#1698#0" expanded="false" />
+                <element signature="e#2789#2910#0" expanded="false" />
+                <marker date="1515060366155" expanded="false" signature="2933:3232" ph="..." />
               </folding>
             </state>
           </provider>
@@ -502,8 +511,8 @@
         <option value="$PROJECT_DIR$/Test2.py" />
         <option value="$PROJECT_DIR$/test3.py" />
         <option value="$PROJECT_DIR$/Test.py" />
-        <option value="$PROJECT_DIR$/Multinomial.py" />
         <option value="$PROJECT_DIR$/unknown.py" />
+        <option value="$PROJECT_DIR$/Multinomial.py" />
         <option value="$PROJECT_DIR$/Bernoulli.py" />
         <option value="$PROJECT_DIR$/Utility.py" />
       </list>
@@ -516,10 +525,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="46" />
-    <option name="width" value="1922" />
-    <option name="height" value="1035" />
+    <option name="x" value="721" />
+    <option name="y" value="48" />
+    <option name="width" value="953" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -947,28 +956,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="46" width="1922" height="1035" extended-state="7" />
-    <editor active="true" />
+    <frame x="721" y="48" width="953" height="1032" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14354323" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17900552" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5060241" sideWeight="0.50213444" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.4967983" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38992333" sideWeight="0.49786553" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5060241" sideWeight="0.49786553" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3504929" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3835165" sideWeight="0.49786553" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3504929" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1015,11 +1024,31 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="43" />
+      <option name="time" value="50" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Multinomial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="34" column="52" lean-forward="true" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+          <folding>
+            <element signature="e#1825#2847#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bernoulli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <folding>
+            <element signature="e#1732#3245#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/unknown.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1030,7 +1059,6 @@
             <element signature="e#592#773#0" expanded="false" />
             <element signature="e#838#1063#0" expanded="false" />
             <element signature="e#1099#1136#0" expanded="false" />
-            <element signature="e#1165#4180#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1040,9 +1068,7 @@
         <state relative-caret-position="138">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#203#2037#0" expanded="false" />
-            <element signature="e#2089#3111#0" expanded="false" />
+            <element signature="e#1825#2847#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1052,9 +1078,7 @@
         <state relative-caret-position="161">
           <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#199#1803#0" expanded="false" />
-            <element signature="e#1853#3366#0" expanded="false" />
+            <element signature="e#1732#3245#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1069,7 +1093,6 @@
             <element signature="e#592#773#0" expanded="false" />
             <element signature="e#838#1063#0" expanded="false" />
             <element signature="e#1099#1136#0" expanded="false" />
-            <element signature="e#1165#4180#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1079,9 +1102,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#203#2037#0" expanded="false" />
-            <element signature="e#2089#3111#0" expanded="false" />
+            <element signature="e#1825#2847#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1091,9 +1112,7 @@
         <state relative-caret-position="207">
           <caret line="57" column="41" lean-forward="false" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#199#1803#0" expanded="false" />
-            <element signature="e#1853#3366#0" expanded="false" />
+            <element signature="e#1732#3245#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1108,7 +1127,6 @@
             <element signature="e#592#773#0" expanded="false" />
             <element signature="e#838#1063#0" expanded="false" />
             <element signature="e#1099#1136#0" expanded="false" />
-            <element signature="e#1165#4180#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1118,9 +1136,7 @@
         <state relative-caret-position="184">
           <caret line="66" column="43" lean-forward="false" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#203#2037#0" expanded="false" />
-            <element signature="e#2089#3111#0" expanded="false" />
+            <element signature="e#1825#2847#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1130,9 +1146,7 @@
         <state relative-caret-position="207">
           <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#199#1803#0" expanded="false" />
-            <element signature="e#1853#3366#0" expanded="false" />
+            <element signature="e#1732#3245#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1183,7 +1197,6 @@
             <element signature="e#592#773#0" expanded="false" />
             <element signature="e#838#1063#0" expanded="false" />
             <element signature="e#1099#1136#0" expanded="false" />
-            <element signature="e#1165#4180#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1201,9 +1214,7 @@
         <state relative-caret-position="46">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#203#2037#0" expanded="false" />
-            <element signature="e#2089#3111#0" expanded="false" />
+            <element signature="e#1825#2847#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1222,9 +1233,7 @@
         <state relative-caret-position="4393">
           <caret line="195" column="117" lean-forward="false" selection-start-line="195" selection-start-column="117" selection-end-line="195" selection-end-column="117" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#199#1803#0" expanded="false" />
-            <element signature="e#1853#3366#0" expanded="false" />
+            <element signature="e#1732#3245#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1234,9 +1243,7 @@
         <state relative-caret-position="851">
           <caret line="85" column="126" lean-forward="true" selection-start-line="83" selection-start-column="4" selection-end-line="85" selection-end-column="126" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#203#2037#0" expanded="false" />
-            <element signature="e#2089#3111#0" expanded="false" />
+            <element signature="e#1825#2847#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1252,7 +1259,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1359,50 +1365,50 @@
     <entry file="file://$PROJECT_DIR$/Test.py" />
     <entry file="file://$PROJECT_DIR$/Test2.py" />
     <entry file="file://$PROJECT_DIR$/test3.py" />
-    <entry file="file://$PROJECT_DIR$/Multinomial.py">
+    <entry file="file://$PROJECT_DIR$/Bernoulli.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="115">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#203#2037#0" expanded="false" />
-            <element signature="e#2089#3111#0" expanded="false" />
+            <element signature="e#1732#3245#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bernoulli.py">
+    <entry file="file://$PROJECT_DIR$/Multinomial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state relative-caret-position="943">
+          <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#199#1803#0" expanded="false" />
-            <element signature="e#1853#3366#0" expanded="false" />
+            <element signature="e#1825#2847#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/unknown.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="151" column="33" lean-forward="true" selection-start-line="150" selection-start-column="8" selection-end-line="151" selection-end-column="33" />
+        <state relative-caret-position="2829">
+          <caret line="150" column="8" lean-forward="false" selection-start-line="150" selection-start-column="8" selection-end-line="151" selection-end-column="33" />
           <folding>
             <element signature="e#458#480#0" expanded="false" />
             <element signature="e#505#542#0" expanded="false" />
             <element signature="e#592#773#0" expanded="false" />
             <element signature="e#838#1063#0" expanded="false" />
             <element signature="e#1099#1136#0" expanded="false" />
-            <element signature="e#1165#4180#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Utility.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1390">
-          <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="437">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="e#83#254#0" expanded="false" />
+            <element signature="e#298#1698#0" expanded="false" />
+            <element signature="e#2789#2910#0" expanded="false" />
+            <marker date="1515060366155" expanded="false" signature="2933:3232" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
