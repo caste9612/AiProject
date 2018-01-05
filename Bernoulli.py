@@ -73,7 +73,9 @@ def bernoulliCompute(document, dir, tab):
 
             #Inizializzo la probabilita e cerco la ctaegoria per sapere quale riga di tab controllare
             for i in range(len(tab[1])):
-                if subdir == tab[1][i]:
+                a1 = subdir.split("/")
+                b1 = (tab[1][i]).split("/")
+                if a1[len(a1)-1] == b1[len(b1)-1]:
                     k = i + 2
                     break
             #Per ogni parola del dizionario
