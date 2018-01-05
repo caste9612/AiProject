@@ -1,8 +1,7 @@
 import os
 import string
-import pickle
 import re
-
+from stop_words import get_stop_words
 
 
 
@@ -20,6 +19,7 @@ def createVocoabulary(r):
     return vocabulary
 
 def documentAnalyse(array, document):
+    stop_words = get_stop_words('en')
     with open(document) as f:
         # Per ogni riga
         lines = f.readlines()
@@ -43,7 +43,7 @@ def documentAnalyse(array, document):
                         if any(char in invalidChars for char in tmp):
                             tmp = ""
 
-                        if tmp.isdigit() or len(tmp)>20 or len(tmp) < 3:
+                        if tmp.isdigit() or tmp in stop_words:
                             tmp = ""
 
 
@@ -58,6 +58,7 @@ def documentAnalyse(array, document):
                                 array.append(tmp)
 
 def documentAnalyseToken(array, document):
+    stop_words = get_stop_words('en')
     with open(document) as f:
         # Per ogni riga
         lines = f.readlines()
@@ -81,8 +82,9 @@ def documentAnalyseToken(array, document):
                         if any(char in invalidChars for char in tmp):
                             tmp = ""
 
-                        if tmp.isdigit() or len(tmp)>20 or len(tmp) < 3:
+                        if tmp.isdigit() or tmp in stop_words:
                             tmp = ""
+
                         if tmp != "":
                             array.append(tmp)
 
@@ -104,4 +106,6 @@ def createList(path):
                     r.append(subdir + "/" + file)
         return r
 
+
+def createVocoabularyrev(r):
 

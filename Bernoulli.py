@@ -1,8 +1,7 @@
 from __future__ import division
 from Utility import documentAnalyse
-#from Utility import createList
 import os
-from math import log10
+from math import log
 
 def bernoulliTrain (dir, vocabulary, percentage, trainSet):
 
@@ -39,14 +38,13 @@ def bernoulliTrain (dir, vocabulary, percentage, trainSet):
                     print str(partial) + "/" + str(len(subdirs) - 1) + " :" + str(counter) + " %"
                 tmp = []
                 documentAnalyse(tmp, files[file])
-                found = [False] * len(tmp)
                 for j in range(len(tmp)):
                     for i in range((len(vocabulary))):
-                        if vocabulary[i] == tmp[j] and found[j] == False:
+                        if vocabulary[i] == tmp[j]:
                             tabTmp[i] += 1
-                            found[j] = True
-                # + 2 per Laplace?
-            for i in range(len(vocabulary)):
+                            break
+                # +1/+2 per Laplace
+            for i in range(len(tabTmp)):
                 tabTmp[i] = (tabTmp[i] + 1) / (len(files) + 2)
             tab.append(tabTmp)
     tab.append(prior)
@@ -79,13 +77,13 @@ def bernoulliCompute(document, dir, tab):
                     k = i + 2
                     break
             #Per ogni parola del dizionario
-            score = log10((tab[len(tab)-1][k-2]))
+            score = log((tab[len(tab)-1][k-2]))
             i = 0
             for p in tab[k]:
                 if b[i] == 0:
-                    score += log10(1-p)
+                    score += log(1-p)
                 else:
-                    score += log10(p)
+                    score += log(p)
                 i += 1
             prova1 = (tab[1][k-2]).split("/")
             cond.append(prova1[len(prova1)-1])
@@ -96,7 +94,7 @@ def bernoulliCompute(document, dir, tab):
     for i in range(3,len(cond),2):
         if cond[i] > cond[max]:
             max = i
-    prov = document.split("/")
+    #prov = document.split("/")
     prov1 = cond[max - 1].split("/")
     #print "Credo che il documento " + prov[len(prov) - 1] + "(" + prov[len(prov) - 2] + ")" + " parli di : " + prov1[len(prov1) - 1]
     return prov1[len(prov1) - 1]

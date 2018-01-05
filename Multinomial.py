@@ -1,8 +1,7 @@
 from __future__ import division
-from Utility import createList
 from Utility import documentAnalyseToken
 import os
-from math import log10
+from math import log
 
 def multinomialTrain(dir, vocabulary, percentage,trainSet):
 
@@ -14,13 +13,12 @@ def multinomialTrain(dir, vocabulary, percentage,trainSet):
     tab.append([])
     totalFiles = trainSet
     prior = []
-    total = 0
-
 
     subdirs = [x[0] for x in os.walk(dir)]
     partial = 0
     for subdir in subdirs:
         if subdir != dir:
+            total = 0
             partial += 1
             counter3 = 0
             #1 sta per laplace smoothing
@@ -44,15 +42,12 @@ def multinomialTrain(dir, vocabulary, percentage,trainSet):
                         if tmp != counter3:
                             counter3 = tmp
                             print str(partial) + "/" + str(len(subdirs)-1) + " :" + str(counter3) + " %"
-                        if vocabulary[i] == words[j] and vocabulary[i] != "\n":
+                        if vocabulary[i] == words[j]:
                             tabTmp[i] += 1
                             total += 1
+            for i in range(len(tabTmp)):
+                tabTmp[i] = tabTmp[i]/(total + len(vocabulary))
             tab.append(tabTmp)
-
-    for i in range(2,len(tab)):
-        for j in range(len(tab[i])):
-            #+1000 per laplace,diviso 1000 o 20 000?
-            tab[i][j] = tab[i][j] / (total + len(vocabulary))
 
     tab.append(prior)
     return tab
@@ -75,12 +70,13 @@ def multinomialCompute(document, dir, tab):
                     k = i + 2
                     break
 
-            score = log10(tab[len(tab)-1][k-2])
+            score = log(tab[len(tab)-1][k-2])
 
             for i in range(len(doc)):
                 for j in range(len(tab[0])):
                     if doc[i] == tab[0][j]:
-                        score += log10(tab[k][j])
+                        score += log(tab[k][j])
+                        break
 
             cond.append(subdir)
             cond.append(score)
@@ -89,7 +85,8 @@ def multinomialCompute(document, dir, tab):
     for i in range(3, len(cond), 2):
         if cond[i] > cond[max]:
             max = i
-    prov = document.split("/")
+    #uncomment per stampare le predizioni file per file
+    #prov = document.split("/")
     prov1 = cond[max - 1].split("/")
     #print "Credo che il documento " + prov[len(prov)-1] + "(" + prov[len(prov)-2] + ")" + " parli di : " + prov1[len(prov1)-1]
     return prov1[len(prov1) - 1]
