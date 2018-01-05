@@ -107,5 +107,3 @@ def createList(path):
         return r
 
 
-def createVocoabularyrev(r):
-

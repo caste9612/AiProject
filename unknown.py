@@ -10,7 +10,6 @@ from Bernoulli import bernoulliTrain
 from Multinomial import multinomialTrain
 from Multinomial import multinomialCompute
 from Utility import createVocoabulary
-from Utility import createVocoabularyrev
 
 try:
     from Tkinter import *
