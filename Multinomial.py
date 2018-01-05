@@ -3,7 +3,7 @@ from Utility import documentAnalyseToken
 import os
 from math import log
 
-def multinomialTrain(dir, vocabulary, percentage,trainSet):
+def multinomialTrain(dir, vocabulary, trainSet):
 
     print "MultinomialTrain start..."
 

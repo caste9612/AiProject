@@ -3,7 +3,7 @@ from Utility import documentAnalyse
 import os
 from math import log
 
-def bernoulliTrain (dir, vocabulary, percentage, trainSet):
+def bernoulliTrain (dir, vocabulary, trainSet):
 
     print "BernoulliTrain start..."
 
