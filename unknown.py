@@ -156,7 +156,7 @@ def createMatrix(dir, percentage, name, mode):
             with open(name + "tabB", "rb") as fp:
                 tab = pickle.load(fp)
         else:
-            tab = bernoulliTrain(dir,voc,100,trainSet)
+            tab = bernoulliTrain(dir,voc,trainSet)
             with open(name + "tabB", "wb") as fp:
                 pickle.dump(tab, fp)
     elif mode == "m":
@@ -164,7 +164,7 @@ def createMatrix(dir, percentage, name, mode):
             with open(name + "tabM", "rb") as fp:
                 tab = pickle.load(fp)
         else:
-            tab = multinomialTrain(dir,voc,100,trainSet)
+            tab = multinomialTrain(dir,voc,trainSet)
             with open(name + "tabM", "wb") as fp:
                 pickle.dump(tab, fp)
     else:
